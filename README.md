@@ -21,7 +21,15 @@ Here are some ideas to get you started:
 
 ###
 
-<h4 align="left">Techs</h4>
+<h3 align="left">Cursos</h3>
+
+###
+
+<h6 align="left">- Curso de Python 3 Mundo 1 - Curso em Vídeo<br>- Curso de Python 3 Mundo 2 - Curso em Vídeo | Em andamento <br>- Curso de Python 3 Mundo 3 - Curso em Vídeo | Em andamento<br>- Linguagem de Programação C# - Básico | Fundação Bradesco<br>- Linguagem de Programação C# - Avançado | Fundação Bradesco<br>- Fundamentos do C# | Balta.io<br>- HTML - Bro Code | Youtube<br>- HTML+CSS - Bro Code | Youtube<br>- Git Descomplicado | ULBRA</h6>
+
+###
+
+<h3 align="left">Techs</h3>
 
 ###
 
