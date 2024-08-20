@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">Techs</p>
+<h2 align="left">Techs</h2>
 
 ###
 
