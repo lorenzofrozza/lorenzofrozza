@@ -1,16 +1,16 @@
-<h2 align="left">Sobre mim</h2>
+<h2 align="left">About me</h2>
 
 ###
 
-<h3 align="left">Olá meu nome é Lorenzo Frozza <br><br>- 19 Anos<br>- Inglês Avançado<br>- Atualmente estou estudando Python, Java e JS</h3>
+<h3 align="left">Hi, my name is Lorenzo Frozza<br><br>- 19 years<br>- Intermediate English<br>- Currently i've been studying Python, Java and JS</h3>
 
 ###
 
-<h3 align="left">Cursos</h3>
+<h3 align="left">Courses</h3>
 
 ###
 
-<h4 align="left">- Curso de Python 3 Mundo 1 - Curso em Vídeo<br>- Curso de Python 3 Mundo 2 - Curso em Vídeo | Em andamento <br>- Curso de Python 3 Mundo 3 - Curso em Vídeo | Em andamento<br>- Linguagem de Programação C# - Básico | Fundação Bradesco<br>- Linguagem de Programação C# - Avançado | Fundação Bradesco<br>- Fundamentos do C# | Balta.io<br>- Python - Bro Code | Youtube<br>- HTML - Bro Code | Youtube<br>- HTML+CSS - Bro Code | Youtube<br>- Git Descomplicado | ULBRA</h4>
+<h4 align="left">- Python 3 World 1 Course - Video Course<br>- Python 3 World 2 Course - Video Course | In progress<br>- Python 3 World 3 Course - Video Course | In progress<br>- Programming Language C# - Basic | Bradesco Foundation<br>- Programming Language C# - Advanced | Bradesco Foundation <br>- C# Fundamentals | Balta.io<br>- HTML - Bro Code | Youtube<br>- HTML+CSS - Bro Code | Youtube<br>- Git Uncomplicated | ULBRA</h4>
 
 ###
 
@@ -38,6 +38,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
 </div>
 
 ###
