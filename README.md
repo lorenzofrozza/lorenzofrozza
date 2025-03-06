@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">Hi, my name is Lorenzo Frozza<br><br>- 19 years<br>- Intermediate English<br>- Currently i've been studying Python, Java and JS</h3>
+<h3 align="left">Hi, my name is Lorenzo Frozza<br><br>- 20 years<br>- Intermediate English<br>- Currently i've been studying Python, Java and JS</h3>
 
 ###
 
