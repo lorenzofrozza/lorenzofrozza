@@ -10,11 +10,12 @@
 
 ###
 
-<h4 align="left">- 
+<h4 align="left">
   - Objetivo 
 Desenvolvedor de Software Júnior com foco em Java, Python e Flutter. Busco oportunidades para 
 aplicar meus conhecimentos em projetos práticos e contribuir com soluções eficientes em 
 ambientes colaborativos. 
+
 
  Habilidades Técnicas 
 ● Linguagens: Java, Python, Dart, C#, HTML, CSS, JavaScript 
