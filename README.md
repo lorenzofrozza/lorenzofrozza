@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">Hi, my name is Lorenzo Frozza<br><br>- 20 years<br>- Advanced English<br>- Currently i've been studying Flutter, Java and JS</h3>
+<h3 align="left">Hi, my name is Lorenzo Frozza<br><br>- 20 years<br>- Advanced English<br>- Currently I've been studying Flutter, Java and JS</h3>
 
 ###
 
@@ -10,20 +10,14 @@
 
 ###
 
-<h4 align="left">
-  - Objetivo 
-Desenvolvedor de Software Júnior com foco em Java, Python e Flutter. Busco oportunidades para 
-aplicar meus conhecimentos em projetos práticos e contribuir com soluções eficientes em 
-ambientes colaborativos. 
+<h4 align="left">- Objetivo: Desenvolvedor de Software Júnior com foco em Java, Python e Flutter. Busco oportunidades para aplicar meus conhecimentos em projetos práticos e contribuir com soluções eficientes em ambientes colaborativos.</h4>
 
-
- Habilidades Técnicas 
-● Linguagens: Java, Python, Dart, C#, HTML, CSS, JavaScript 
-● Frameworks: Flutter, Bootstrap 
-● Bancos de Dados: MySQL, MongoDB 
-● Ferramentas: Git, Docker, Oracle Cloud 
-● Outras Competências: Integração com APIs RESTful, versionamento de código, UI responsiva, 
-desenvolvimento mobile e web  | ULBRA</h4>
+<h4 align="left">- Habilidades Técnicas:<br>
+● Linguagens: Java, Python, Dart, C#, HTML, CSS, JavaScript<br>
+● Frameworks: Flutter, Bootstrap<br>
+● Bancos de Dados: MySQL, MongoDB<br>
+● Ferramentas: Git, Docker, Oracle Cloud<br>
+● Outras Competências: Integração com APIs RESTful, versionamento de código, UI responsiva, desenvolvimento mobile e web | ULBRA</h4>
 
 ###
 
