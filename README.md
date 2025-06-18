@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">Hi, my name is Lorenzo Frozza<br><br>- 20 years<br>- Advanced English<br>- Currently i've been studying Python, Java and JS</h3>
+<h3 align="left">Hi, my name is Lorenzo Frozza<br><br>- 20 years<br>- Advanced English<br>- Currently i've been studying Flutter, Java and JS</h3>
 
 ###
 
@@ -10,7 +10,19 @@
 
 ###
 
-<h4 align="left">- Python 3 World 1 Course - Video Course<br>- Python 3 World 2 Course - Video Course | In progress<br>- Python 3 World 3 Course - Video Course | In progress<br>- Programming Language C# - Basic | Bradesco Foundation<br>- Programming Language C# - Advanced | Bradesco Foundation <br>- C# Fundamentals | Balta.io<br>- HTML - Bro Code | Youtube<br>- HTML+CSS - Bro Code | Youtube<br>- Git Uncomplicated | ULBRA</h4>
+<h4 align="left">- 
+  - Objetivo 
+Desenvolvedor de Software Júnior com foco em Java, Python e Flutter. Busco oportunidades para 
+aplicar meus conhecimentos em projetos práticos e contribuir com soluções eficientes em 
+ambientes colaborativos. 
+
+ Habilidades Técnicas 
+● Linguagens: Java, Python, Dart, C#, HTML, CSS, JavaScript 
+● Frameworks: Flutter, Bootstrap 
+● Bancos de Dados: MySQL, MongoDB 
+● Ferramentas: Git, Docker, Oracle Cloud 
+● Outras Competências: Integração com APIs RESTful, versionamento de código, UI responsiva, 
+desenvolvimento mobile e web  | ULBRA</h4>
 
 ###
 
