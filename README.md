@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">Hi, my name is Lorenzo Frozza<br><br>- 20 years old<br>- Advanced English<br>- Currently studying Flutter, Java, and JavaScript</h3>
+<h3 align="left">Hi, my name is Lorenzo Frozza<br><br>- 21 years old<br>- Advanced English<br>- Currently studying Apex, Flow, JavaScript and LWC</h3>
 
 ###
 
